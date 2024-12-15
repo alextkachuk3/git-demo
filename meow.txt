@@ -1,6 +1,3 @@
 NYAN!
 NYAN!
 MEOW!
-
-feature NYAN!
-feature MEOW!
